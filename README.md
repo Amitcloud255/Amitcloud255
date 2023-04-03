@@ -1,3 +1,4 @@
+![logo](https://www.birlasoft.com/sites/default/files/banner-h-microsoft-windows-azure.jpg)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Cloud Solution Architect from India</h3>
 
