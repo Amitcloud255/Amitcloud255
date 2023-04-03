@@ -4,6 +4,8 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<img align="right" alt="coding" width="400" src="https://futureskillsprime.in//sites/default/files/2022-01/Blog%20Images_Link%20Sharing_Top%20Benefits%20of%20Cloud%20Computing%20Blog-1.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitcloud255&label=Profile%20views&color=0e75b6&style=flat" alt="amitcloud255" /> </p>
 
 - 📫 How to reach me **amitkumar921235@gmail.com**
