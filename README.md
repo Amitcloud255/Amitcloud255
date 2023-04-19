@@ -7,8 +7,6 @@
 <img align="right" width="500" src="https://www.zdnet.com/a/img/resize/0a6b0be2f543ddbf313fc83a706b807b77c3c202/2021/07/19/8a337c80-5ed6-43a1-98fb-b981d420890f/programming-languages-shutterstock-1680857539.jpg?auto=webp&fit=crop&height=900&width=1200">
 <img align="left" alt="coding" width="600" src="https://futureskillsprime.in//sites/default/files/2022-01/Blog%20Images_Link%20Sharing_Top%20Benefits%20of%20Cloud%20Computing%20Blog-1.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitcloud255&label=Profile%20views&color=0e75b6&style=flat" alt="amitcloud255" /> </p>
-
 - 📫 How to reach me **amitkumar921235@gmail.com**
 
 - ⚡ Fun fact **I am funny**
